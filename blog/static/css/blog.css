@@ -1,0 +1,25 @@
+h2 a {
+  color: #b2ad7f;
+}
+
+.pub-date {
+  color: #a2b9bc;
+  font-size: small;
+  margin-bottom: 15px;
+}
+
+.header {
+  background-color: #6b5b95;
+  margin-top: 0;
+  padding: 20px 20px 20px 40px;
+
+}
+
+h1 a {
+  color: #878f99;
+  font-size: 50px;
+}
+
+.post {
+  margin: 40px;
+}
